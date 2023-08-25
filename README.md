@@ -31,7 +31,7 @@ Scraped over 40,000 rows of flight routes samples which amouts to 99 different f
 After scraping the data , needed to smooth the data due to wrong sampling, use Kalman filter to smooth the data.
 
 # EDA
-![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/airline.png "Airline histogram")
+![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/main/images/airline.png "Airline histogram")
 ![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/aircraft.png "Aircraft histogram")
 ![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/date.png "Date histogram")
 ![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/mph.png "MPH histogram")
