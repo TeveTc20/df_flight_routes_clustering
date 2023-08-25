@@ -32,12 +32,12 @@ After scraping the data , needed to smooth the data due to wrong sampling, use K
 
 # EDA
 ![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/main/images/airline.png "Airline histogram")
-![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/aircraft.png "Aircraft histogram")
-![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/date.png "Date histogram")
-![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/mph.png "MPH histogram")
-![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/europe_flights.png "Map or flights to Europe")
-![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/asia_flights.png "Map or flights to Asia")
-![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/master/images/america_flights.png "Map or flights to America")
+![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/main/images/aircraft.png "Aircraft histogram")
+![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/main/images/date.png "Date histogram")
+![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/main/images/mph.png "MPH histogram")
+![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/main/images/europe_flights.png "Map or flights to Europe")
+![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/main/images/asia_flights.png "Map or flights to Asia")
+![alt text](https://github.com/TeveTc20/ds_flight_routes_clustering/blob/main/images/america_flights.png "Map or flights to America")
 
 # Clustering models
 Tried 4 different models:
