@@ -13,19 +13,19 @@
 
 ## Web scraping
 Scraped over 40,000 rows of flight routes samples which amouts to 99 different flight routes sequences, we got the following:
-*Route
-*Airline Name
-*Flight number
-*Type of aircraft
-*Date
-*Time
-*Latitude
-*Longitude
-*Course
-*Mph
-*Feet
-*Rate
-*Reporting Facility
+* Route
+* Airline Name
+* Flight number
+* Type of aircraft
+* Date
+* Time
+* Latitude
+* Longitude
+* Course
+* Mph
+* Feet
+* Rate
+* Reporting Facility
 
 # Data Cleaning
 After scraping the data , needed to smooth the data due to wrong sampling, use Kalman filter to smooth the data.
@@ -47,6 +47,6 @@ Tried 4 different models:
 * GMM from sklearn
   
 # Analyzing subsequence patterns
-*Splitted the flights for 3 continents: Europe, Asia and America
-*Calculated for every sequence the distance and angle differences between two consecutive point to check for unusual pattern
-*After finding the routes, analyzed the spots where the angle and distance difference was unusal and reaching conclusions
+* Splitted the flights for 3 continents: Europe, Asia and America
+* Calculated for every sequence the distance and angle differences between two consecutive point to check for unusual pattern
+* After finding the routes, analyzed the spots where the angle and distance difference was unusal and reaching conclusions
