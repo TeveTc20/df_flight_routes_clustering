@@ -1,0 +1,608 @@
+Route,Airline,Flight Num,Aircraft,Date,Time,Latitude,Longitude,Course,Kts,mph,feet,Rate,Reporting Facility
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:29:10 AM,32.0133,34.864,← 260°,177,204,375, ,FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:29:26 AM,32.011,34.8498,← 258°,173,199,"1,025","2,625",FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:29:42 AM,32.008,34.8344,← 257°,168,193,"1,775","2,438",FlightAware ADS-B (LLHS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:29:58 AM,32.0054,34.8213,← 256°,170,196,"2,325","2,016",FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:30:14 AM,32.0022,34.8064,← 256°,173,199,"2,850","1,828",FlightAware ADS-B (LLEK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:30:30 AM,31.9992,34.7929,← 256°,182,209,"3,300","1,272",FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:31:00 AM,31.9923,34.76,← 258°,217,250,"3,825","1,000",FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:31:21 AM,31.9951,34.7345,← 289°,235,270,"4,150","1,107",FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:31:42 AM,32.0034,34.708,← 291°,263,303,"4,600","2,059",FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:32:12 AM,32.0168,34.6665,← 291°,269,310,"5,900","2,640",FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:32:32 AM,32.0253,34.6379,← 285°,276,318,"6,800","2,553",FlightAware ADS-B (SDV / LLSD)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:32:59 AM,32.0285,34.5974,← 274°,281,323,"7,900","2,403",FlightAware ADS-B (LLEK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:34:05 AM,32.0338,34.4942,← 274°,292,336,"10,525","2,041",FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:34:25 AM,32.0384,34.4629,← 287°,310,357,"10,825",930,FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:34:55 AM,32.0534,34.4106,← 289°,340,391,"11,300",959,FlightAware ADS-B (LLHS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:35:26 AM,32.0691,34.3546,← 288°,363,418,"11,800","1,303",FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:35:56 AM,32.085,34.2975,← 288°,373,429,"12,625","1,819",FlightAware ADS-B (TLV / LLBG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:37:19 AM,32.1296,34.1358,← 288°,392,451,"15,225","1,885",FlightAware ADS-B (BEY / OLBA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:37:49 AM,32.1463,34.0748,← 288°,388,447,"16,175","1,742",FlightAware ADS-B (BEY / OLBA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:38:21 AM,32.1641,34.0107,← 288°,395,455,"17,025","1,500",FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:39:42 AM,32.2484,33.8622,← 306°,410,472,"19,000","1,500",FlightAware MLAT (9 sites)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:40:35 AM,32.3083,33.7651,← 306°,413,475,"20,375","1,355",FlightAware MLAT (4 sites)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:41:05 AM,32.3417,33.7089,← 305°,424,488,"20,875","1,331",FlightAware MLAT (5 sites)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:41:37 AM,32.376,33.6471,← 305°,426,490,"21,750","1,445",FlightAware MLAT (6 sites)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:42:00 AM,32.4034,33.603,← 308°,410,472,"22,200","1,245",FlightAware ADS-B (BEY / OLBA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:42:30 AM,32.4382,33.5447,← 305°,434,499,"22,850","1,325",FlightAware ADS-B (BEY / OLBA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:43:00 AM,32.4723,33.4874,← 304°,432,497,"23,525","1,111",FlightAware ADS-B (LLHZ)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:44:18 AM,32.562,33.3317,← 305°,458,527,"24,850",991,FlightAware MLAT (5 sites)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:44:49 AM,32.5997,33.2728,← 305°,449,517,"25,325","1,131",FlightAware ADS-B (ECN / LCEN)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:45:19 AM,32.6355,33.2122,← 305°,447,514,"26,000","1,250",FlightAware ADS-B (ECN / LCEN)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:45:49 AM,32.6706,33.1517,← 305°,446,513,"26,575","1,008",FlightAware ADS-B (ECN / LCEN)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:46:20 AM,32.7087,33.0864,← 305°,450,518,"27,025",836,FlightAware ADS-B (AKT / LCRA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:46:50 AM,32.7431,33.0285,← 305°,453,521,"27,425",875,FlightAware ADS-B (HFA / LLHA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:47:20 AM,32.7815,32.9649,← 306°,453,521,"27,900","1,008",FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:47:51 AM,32.8171,32.9052,← 305°,451,519,"28,450","1,156",FlightAware ADS-B (BEV / LLBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:48:21 AM,32.8537,32.8431,← 305°,448,516,"29,075","1,300",FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:48:51 AM,32.8888,32.7831,← 305°,442,509,"29,750","1,275",FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:49:21 AM,32.9237,32.723,← 305°,438,504,"30,350","1,150",FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:49:51 AM,32.9587,32.6628,← 305°,436,502,"30,900",925,FlightAware ADS-B (BEV / LLBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:50:21 AM,32.9915,32.6063,← 305°,436,502,"31,275",775,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:50:51 AM,33.0254,32.5481,← 305°,436,502,"31,675","1,000",FlightAware ADS-B (LCA / LCLK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:51:21 AM,33.0607,32.4876,← 305°,431,496,"32,275",836,FlightAware ADS-B (LCA / LCLK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:51:52 AM,33.0953,32.4277,← 305°,434,499,"32,525",762,FlightAware ADS-B (LCA / LCLK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:52:22 AM,33.1305,32.367,← 305°,431,496,"33,050","1,000",FlightAware ADS-B (AKT / LCRA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:52:52 AM,33.1647,32.3081,← 304°,428,493,"33,525",850,FlightAware ADS-B (AKT / LCRA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:53:22 AM,33.1982,32.2501,← 304°,427,491,"33,900",475,FlightAware ADS-B (AKT / LCRA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:53:52 AM,33.2304,32.1942,← 305°,426,490,"34,000",97,FlightAware ADS-B (LLHZ)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:54:24 AM,33.2657,32.1329,← 304°,425,489,"34,000", ,FlightAware ADS-B (NIC / LCNC)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:55:01 AM,33.3079,32.0592,← 304°,425,489,"34,000", ,FlightAware ADS-B (ADA / LTAF)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:55:31 AM,33.3409,32.0017,← 304°,426,490,"34,000", ,FlightAware ADS-B (BEY / OLBA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:56:02 AM,33.3763,31.9396,← 304°,427,491,"34,000",25,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:56:32 AM,33.4101,31.8804,← 304°,429,494,"34,025",25,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:57:03 AM,33.443,31.8227,← 304°,424,488,"34,025", ,FlightAware ADS-B (ECN / LCEN)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:57:23 AM,33.4662,31.7822,← 304°,427,491,"34,025", ,FlightAware ADS-B (AKT / LCRA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:57:53 AM,33.4992,31.7241,← 304°,431,496,"34,025",25,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:58:23 AM,33.5333,31.6641,← 303°,430,495,"34,050", ,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:58:53 AM,33.5668,31.605,← 304°,429,494,"34,025",-25,FlightAware ADS-B (AYT / LTAI)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:59:23 AM,33.5992,31.5476,← 304°,428,493,"34,025",-25,FlightAware ADS-B (GZP / LTFG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 05:59:53 AM,33.6324,31.4886,← 304°,427,491,"34,000",-25,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:00:23 AM,33.6656,31.43,← 304°,426,490,"34,000",-25,FlightAware ADS-B (ECN / LCEN)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:00:53 AM,33.6979,31.3728,← 304°,425,489,"33,975",-25,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:01:23 AM,33.7318,31.3128,← 304°,424,488,"33,975", ,FlightAware ADS-B (ECN / LCEN)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:01:53 AM,33.7649,31.254,← 304°,426,490,"33,975",-23,FlightAware ADS-B (ECN / LCEN)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:02:28 AM,33.804,31.1844,← 304°,427,491,"33,950", ,FlightAware ADS-B (LCA / LCLK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:02:59 AM,33.8385,31.1226,← 304°,428,493,"33,975",25,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:03:29 AM,33.8715,31.0633,← 304°,430,495,"33,975",24,FlightAware ADS-B (BEY / OLBA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:04:02 AM,33.908,30.9979,← 304°,432,497,"34,000",24,FlightAware ADS-B (AYT / LTAI)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:04:32 AM,33.9396,30.9411,← 304°,433,498,"34,000",50,FlightAware ADS-B (AKT / LCRA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:05:02 AM,33.9735,30.8803,← 304°,434,499,"34,050",50,FlightAware ADS-B (ECN / LCEN)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:05:32 AM,34.0074,30.8196,← 304°,434,499,"34,050", ,FlightAware ADS-B (AKT / LCRA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:06:02 AM,34.0407,30.7594,← 304°,431,496,"34,050",-25,FlightAware ADS-B (AKT / LCRA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:06:33 AM,34.0753,30.6966,← 304°,431,496,"34,025",-48,FlightAware ADS-B (AYT / LTAI)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:07:05 AM,34.1092,30.6352,← 304°,429,494,"34,000",-23,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:07:37 AM,34.1451,30.5703,← 304°,428,493,"34,000",-24,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:08:08 AM,34.1788,30.509,← 303°,427,491,"33,975",-24,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:08:40 AM,34.2133,30.4461,← 303°,427,491,"33,975",-24,FlightAware ADS-B (GZP / LTFG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:09:10 AM,34.2459,30.3866,← 303°,427,491,"33,950", ,FlightAware ADS-B (GZP / LTFG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:09:40 AM,34.2784,30.3268,← 303°,427,491,"33,975",25,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:10:10 AM,34.3109,30.2671,← 303°,427,491,"33,975",25,FlightAware ADS-B (GZP / LTFG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:10:40 AM,34.3433,30.2081,← 304°,428,493,"34,000",24,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:11:12 AM,34.3786,30.1435,← 304°,428,493,"34,000", ,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:11:43 AM,34.4126,30.0813,← 303°,430,495,"34,000", ,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:12:14 AM,34.4471,30.0207,← 307°,431,496,"34,000", ,FlightAware ADS-B (AKT / LCRA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:12:46 AM,34.4859,29.9603,← 308°,433,498,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:13:18 AM,34.5256,29.8983,← 308°,435,501,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:13:49 AM,34.5643,29.8368,← 307°,436,502,"34,000", ,FlightAware ADS-B (BEY / OLBA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:14:21 AM,34.6029,29.7748,← 307°,439,505,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:14:51 AM,34.6392,29.7162,← 307°,439,505,"34,000",25,FlightAware ADS-B (PFO / LCPH)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:15:21 AM,34.6766,29.6562,← 307°,440,506,"34,025",25,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:15:52 AM,34.715,29.5948,← 307°,440,506,"34,025",-24,FlightAware ADS-B (AYT / LTAI)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:16:24 AM,34.754,29.532,← 307°,441,507,"34,000",-24,FlightAware ADS-B (AYT / LTAI)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:16:55 AM,34.791,29.4721,← 307°,442,509,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:17:26 AM,34.8295,29.4096,← 307°,443,510,"34,000",-25,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:17:56 AM,34.8668,29.3489,← 307°,444,511,"33,975", ,FlightAware ADS-B (AYT / LTAI)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:18:26 AM,34.9033,29.2895,← 307°,445,512,"34,000",25,FlightAware ADS-B (AYT / LTAI)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:18:57 AM,34.942,29.2266,← 307°,447,514,"34,000", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:19:27 AM,34.9792,29.1656,← 307°,448,516,"34,000",25,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:19:58 AM,35.0176,29.1029,← 307°,449,517,"34,025",24,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:20:30 AM,35.0588,29.0358,← 307°,450,518,"34,025", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:21:01 AM,35.0954,28.9755,← 307°,450,518,"34,025", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:21:31 AM,35.1326,28.9141,← 306°,450,518,"34,025", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:22:01 AM,35.1704,28.8519,← 307°,450,518,"34,025",-25,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:22:32 AM,35.209,28.7886,← 307°,450,518,"34,000",-25,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:23:02 AM,35.245,28.7293,← 306°,450,518,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:23:32 AM,35.2829,28.6667,← 306°,450,518,"34,000", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:24:02 AM,35.3203,28.6045,← 306°,449,517,"34,000", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:24:32 AM,35.3562,28.5449,← 306°,448,516,"34,000", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:25:02 AM,35.3941,28.4816,← 306°,448,516,"34,000",-25,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:25:32 AM,35.431,28.4202,← 306°,448,516,"33,975",-25,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:26:02 AM,35.4666,28.3608,← 306°,447,514,"33,975", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:26:32 AM,35.5033,28.2993,← 306°,448,516,"33,975", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:27:03 AM,35.5406,28.2368,← 306°,448,516,"33,975",25,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:27:33 AM,35.5771,28.1756,← 306°,448,516,"34,000",25,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:28:03 AM,35.6145,28.1128,← 306°,448,516,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:28:33 AM,35.6513,28.051,← 306°,449,517,"34,000", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:29:03 AM,35.6879,27.989,← 306°,450,518,"34,000", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:29:33 AM,35.7241,27.9278,← 306°,451,519,"34,000", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:30:04 AM,35.7616,27.8642,← 306°,451,519,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:30:34 AM,35.7982,27.8022,← 306°,452,520,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:31:04 AM,35.8355,27.739,← 306°,452,520,"34,000", ,FlightAware ADS-B (DLM / LTBS)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:31:34 AM,35.8728,27.6754,← 306°,452,520,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:32:04 AM,35.9092,27.6133,← 306°,453,521,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:32:35 AM,35.946,27.5504,← 306°,452,520,"34,000", ,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:33:05 AM,35.9834,27.4864,← 306°,452,520,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:33:35 AM,36.0204,27.423,← 306°,452,520,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:34:05 AM,36.057,27.3602,← 306°,453,521,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:34:35 AM,36.0929,27.2983,← 306°,452,520,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:35:06 AM,36.1303,27.2337,← 306°,453,521,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:35:36 AM,36.1671,27.1702,← 306°,453,521,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:36:06 AM,36.204,27.1062,← 305°,454,522,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:36:36 AM,36.2398,27.0444,← 305°,454,522,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:37:06 AM,36.2769,26.9798,← 305°,454,522,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:37:36 AM,36.314,26.9153,← 305°,455,524,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:38:06 AM,36.3503,26.8518,← 305°,455,524,"34,000", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:38:36 AM,36.3867,26.7882,← 305°,452,520,"34,000",25,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:39:06 AM,36.4229,26.7248,← 305°,446,513,"34,025", ,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:39:41 AM,36.4641,26.6526,← 305°,449,517,"34,000",-23,FlightAware ADS-B (JSI / LGSK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:40:11 AM,36.4997,26.5899,← 305°,451,519,"34,000",-200,FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:40:41 AM,36.5356,26.5264,← 305°,443,510,"33,800",-650,FlightAware ADS-B (KGS / LGKO)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:41:11 AM,36.5707,26.4645,← 305°,433,498,"33,350",-925,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:41:41 AM,36.6048,26.4042,← 305°,436,502,"32,875",-950,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:42:11 AM,36.64,26.342,← 305°,439,505,"32,400",-950,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:42:41 AM,36.6756,26.2789,← 305°,446,513,"31,925",-975,FlightAware ADS-B (ADB / LTBJ)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:43:11 AM,36.7107,26.2162,← 305°,449,517,"31,425","-1,125",FlightAware ADS-B (ADB / LTBJ)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:43:41 AM,36.7471,26.1512,← 305°,447,514,"30,800","-1,175",FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:44:11 AM,36.7825,26.0882,← 305°,447,514,"30,250",-800,FlightAware ADS-B (CHQ / LGSA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:44:41 AM,36.8176,26.0259,← 305°,450,518,"30,000",-250,FlightAware ADS-B (LGMG)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:45:11 AM,36.8534,25.9618,← 305°,450,518,"30,000", ,FlightAware ADS-B (CHQ / LGSA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:45:41 AM,36.8888,25.8981,← 305°,450,518,"30,000", ,FlightAware ADS-B (JSI / LGSK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:46:11 AM,36.9245,25.8338,← 305°,455,524,"30,000", ,FlightAware ADS-B (JSI / LGSK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:46:41 AM,36.961,25.7681,← 305°,462,532,"30,000",-277,FlightAware ADS-B (JSI / LGSK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:47:16 AM,37.005,25.6888,← 305°,461,531,"29,700",-727,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:47:47 AM,37.0424,25.6213,← 305°,462,532,"29,200",-984,FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:48:17 AM,37.0783,25.5561,← 305°,460,529,"28,700","-1,025",FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:48:47 AM,37.1146,25.4901,← 305°,455,524,"28,175","-1,200",FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:49:17 AM,37.1507,25.4243,← 305°,452,520,"27,500","-1,425",FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:49:47 AM,37.1856,25.3607,← 304°,445,512,"26,750","-1,525",FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:50:17 AM,37.2202,25.2974,← 304°,440,506,"25,975","-1,525",FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:50:47 AM,37.2553,25.2331,← 304°,440,506,"25,225","-1,525",FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:51:17 AM,37.2896,25.1703,← 304°,436,502,"24,450","-1,525",FlightAware ADS-B (LGTP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:51:47 AM,37.3219,25.1105,← 304°,432,497,"23,700","-1,475",FlightAware ADS-B (JSY / LGSO)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:52:18 AM,37.3551,25.0473,← 303°,427,491,"22,950","-1,595",FlightAware ADS-B (JSY / LGSO)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:52:50 AM,37.3892,24.9832,← 303°,414,476,"22,025","-1,830",FlightAware ADS-B (JSY / LGSO)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:53:08 AM,37.4038,24.9412,← 285°,412,474,"21,425","-2,008",FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:53:49 AM,37.4205,24.8443,← 283°,411,473,"20,050","-1,938",FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:54:20 AM,37.4332,24.775,← 283°,401,461,"19,100","-1,574",FlightAware ADS-B (RHO / LGRP)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:54:50 AM,37.4451,24.7076,← 283°,396,456,"18,450","-1,175",FlightAware ADS-B (JSY / LGSO)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:55:20 AM,37.4565,24.6412,← 282°,395,455,"17,925","-1,100",FlightAware ADS-B (LGTT)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:55:50 AM,37.4675,24.5757,← 282°,390,449,"17,350","-1,450",FlightAware ADS-B (LGTT)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:56:20 AM,37.4789,24.5076,← 282°,387,445,"16,475","-1,600",FlightAware ADS-B (JSI / LGSK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:56:50 AM,37.4895,24.4424,← 281°,383,441,"15,750","-1,303",FlightAware ADS-B (JSI / LGSK)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:57:21 AM,37.5008,24.3748,← 282°,377,434,"15,150","-1,475",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:57:51 AM,37.5121,24.3103,← 282°,378,435,"14,250","-2,164",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:58:22 AM,37.5237,24.2441,← 282°,379,436,"12,950","-2,508",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:58:52 AM,37.5336,24.1797,← 280°,378,435,"11,700","-2,500",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:59:22 AM,37.5426,24.1149,← 280°,377,434,"10,450","-2,250",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 06:59:52 AM,37.5514,24.0497,← 279°,368,423,"9,450","-1,452",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:00:24 AM,37.5597,23.9836,← 278°,343,395,"8,950",-688,FlightAware ADS-B (LGTT)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:00:40 AM,37.5633,23.9518,← 278°,325,374,"8,900",-293,FlightAware ADS-B (HER / LGIR)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:01:10 AM,37.5688,23.9003,← 278°,298,343,"8,725",-575,FlightAware ADS-B (CHQ / LGSA)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:01:40 AM,37.5738,23.8522,← 278°,283,326,"8,325","-1,082",FlightAware ADS-B (LGEL)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:02:11 AM,37.5794,23.7999,← 278°,280,322,"7,625","-1,328",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:02:41 AM,37.5846,23.7526,← 278°,276,318,"6,975","-1,467",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:02:57 AM,37.5912,23.7282,← 302°,267,307,"6,500","-1,818",FlightAware ADS-B (EDO / LTFD)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:03:14 AM,37.6074,23.7106,↖ 333°,257,296,"5,975","-1,586",FlightAware ADS-B (LGTT)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:03:32 AM,37.6271,23.7061,↑ 357°,247,284,"5,575","-1,563",FlightAware ADS-B (LGTT)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:04:02 AM,37.6583,23.7188,↗ 22°,249,287,"4,725","-1,575",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:04:32 AM,37.6905,23.7357,↗ 23°,248,285,"4,000","-1,300",FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:05:02 AM,37.7221,23.7523,↗ 23°,241,277,"3,425",-910,FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:05:33 AM,37.7533,23.7689,↗ 23°,221,254,"3,075",-594,FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:05:50 AM,37.7695,23.7783,↗ 31°,210,242,"2,950",-220,FlightAware ADS-B (LGTT)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:06:14 AM,37.7882,23.793,↗ 34°,190,219,"2,925", ,FlightAware ADS-B (LGEL)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:06:35 AM,37.8012,23.8047,↗ 37°,163,188,"2,950",-265,FlightAware ADS-B (LGEL)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:07:05 AM,37.8179,23.8207,↗ 36°,140,161,"2,700",-600,FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:07:35 AM,37.8329,23.8348,↗ 37°,135,155,"2,350",-725,FlightAware ADS-B (LGEL)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:08:05 AM,37.8484,23.8495,↗ 37°,145,167,"1,975",-750,FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:08:35 AM,37.8645,23.8648,↗ 37°,145,167,"1,600",-750,FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:09:05 AM,37.8807,23.8801,↗ 37°,145,167,"1,225",-771,FlightAware ADS-B (ATH / LGAV)
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:09:10 AM,37.8833,23.8826,↗ 37°,143,165,"1,150",-739,Surface and Near-Surface
+TLV - ATH,Aegean Airlines,AEE929,A21N,23/06/23,Fri 07:10:12 AM,37.9154,23.913,↗ 37°,136,157,400,-726,FlightAware ADS-B (ATH / LGAV)
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
